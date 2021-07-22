@@ -1,1 +1,1 @@
-# Introdu-o-ao-JavaScript
+# Scripts Python p/ Mercado financeiros
